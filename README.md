@@ -1,0 +1,3 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router v6.  The problem is that child routes within a parent route fail to render, leaving a blank page despite the parent route rendering successfully.
+
+The solution provided addresses this issue by ensuring correct route nesting and path definitions within the React Router components. This ensures that the application functions as expected, displaying the appropriate components based on the URL.
